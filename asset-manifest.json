@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-crm-dashboard/static/css/main.9723eff4.css",
+    "main.js": "/react-crm-dashboard/static/js/main.afc4101b.js",
+    "static/media/Logo.svg": "/react-crm-dashboard/static/media/Logo.b585074494aaa6ffb0cb88ac53f58f18.svg",
+    "static/media/promote.svg": "/react-crm-dashboard/static/media/promote.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/income.svg": "/react-crm-dashboard/static/media/income.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/product.svg": "/react-crm-dashboard/static/media/product.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/help.svg": "/react-crm-dashboard/static/media/help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/customers.svg": "/react-crm-dashboard/static/media/customers.27617add0f452c671fec310dc74fcb18.svg",
+    "static/media/dashboard.svg": "/react-crm-dashboard/static/media/dashboard.153a0eb179be0548729792a4f21fc52e.svg",
+    "index.html": "/react-crm-dashboard/index.html",
+    "static/media/search.svg": "/react-crm-dashboard/static/media/search.d555a35800fec6f7c1928aef95546ef7.svg",
+    "static/media/arrow-right.svg": "/react-crm-dashboard/static/media/arrow-right.31c019d5332882ccd6126e796d0e46b1.svg",
+    "main.9723eff4.css.map": "/react-crm-dashboard/static/css/main.9723eff4.css.map",
+    "main.afc4101b.js.map": "/react-crm-dashboard/static/js/main.afc4101b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9723eff4.css",
+    "static/js/main.afc4101b.js"
+  ]
+}
